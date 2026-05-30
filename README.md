@@ -133,7 +133,5 @@ com.example.univents
 
 ---
 
-## Author
-
 Univents  
-Android Campus Event Management Application
+University events
